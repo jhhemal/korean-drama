@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/korean-drama/static/css/main.f668b5d4.chunk.css",
+    "main.js": "/korean-drama/static/js/main.7038591a.chunk.js",
+    "main.js.map": "/korean-drama/static/js/main.7038591a.chunk.js.map",
+    "runtime-main.js": "/korean-drama/static/js/runtime-main.f9bd620e.js",
+    "runtime-main.js.map": "/korean-drama/static/js/runtime-main.f9bd620e.js.map",
+    "static/js/2.562117a3.chunk.js": "/korean-drama/static/js/2.562117a3.chunk.js",
+    "static/js/2.562117a3.chunk.js.map": "/korean-drama/static/js/2.562117a3.chunk.js.map",
+    "index.html": "/korean-drama/index.html",
+    "precache-manifest.a134cb7ffae9b7a8359bb769246f17c5.js": "/korean-drama/precache-manifest.a134cb7ffae9b7a8359bb769246f17c5.js",
+    "service-worker.js": "/korean-drama/service-worker.js",
+    "static/css/main.f668b5d4.chunk.css.map": "/korean-drama/static/css/main.f668b5d4.chunk.css.map",
+    "static/js/2.562117a3.chunk.js.LICENSE.txt": "/korean-drama/static/js/2.562117a3.chunk.js.LICENSE.txt",
+    "static/media/itokay.jpg": "/korean-drama/static/media/itokay.44dfa63c.jpg",
+    "static/media/pinocchio.png": "/korean-drama/static/media/pinocchio.d4a3766e.png",
+    "static/media/rosy.jpg": "/korean-drama/static/media/rosy.520e88e3.jpg",
+    "static/media/stay.jpg": "/korean-drama/static/media/stay.38c84df1.jpg",
+    "static/media/strang.jpg": "/korean-drama/static/media/strang.360fe714.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9bd620e.js",
+    "static/js/2.562117a3.chunk.js",
+    "static/css/main.f668b5d4.chunk.css",
+    "static/js/main.7038591a.chunk.js"
+  ]
+}
